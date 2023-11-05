@@ -1,7 +1,7 @@
-# Hello devs, name is Fauzer Kaminski Abrão and I'm a Fullstack developer! 
-I work as developer since 1983 with Clipper 5. Fell free to ask me anything! 
+# Hello devs, name is Fauzer Kaminski Abrão and I'm a Fullstack developer!
+I work as developer since 1983 with Clipper 5. Fell free to ask me anything!
 
-### Profile 
+### Profile
   <img src="https://github-readme-stats.vercel.app/api?username=Fauzera&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
 
 ### My techs
