@@ -3,7 +3,7 @@ I work as developer since 1983 with Clipper 5. Fell free to ask me anything!
 ### Profile           
   <img src="https://github-readme-stats.vercel.app/api?username=Fauzerka&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" height=200em />
 
-### My techs  
+### My techs
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 /> <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40 height=40 /> <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 /> <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 /> <img alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=40 height=40 /> <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40 /> <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=40 height=40 /> <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40 /> <img alt="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 />
 
 ### Contact me!
